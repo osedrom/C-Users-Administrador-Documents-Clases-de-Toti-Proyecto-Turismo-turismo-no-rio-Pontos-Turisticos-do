@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+     justify-content:center;
+    
+   
+}
+
+.text1{
+    color:#fff;
+    font-size: 20px;
+    
+}
+.text1:hover{
+    color:rgb(17, 71, 187);
+    
+   
+    
+}
+.card{
+    background-color:rgb(150, 195, 235);
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+.card:hover{
+    color: rgb(235, 203, 23);
+}
+

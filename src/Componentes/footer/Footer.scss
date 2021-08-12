@@ -1,0 +1,43 @@
+
+  .footer-content{
+    margin-left: 0px;
+      box-sizing: border-box;
+      background:rgb(14, 88, 141);
+      width: 100vw;
+     align-items: center;
+     justify-content: center;
+      text-align:center;
+      flex-direction: column;
+     
+     
+ }
+ 
+ .parrafo{
+     margin-bottom: 25px;
+     color:#fff;
+ }
+ 
+   
+    li{
+        width: 45px;
+    }
+  
+
+  li:hover{
+      color: aqua;
+  }
+ h3{
+     color: aquamarine;
+     margin-left: 12px;
+   
+ }
+ .redes{
+     
+     display: flex;
+     list-style: none;
+     font-size: 30px;
+     justify-content: center;
+      align-items: center;
+   
+    
+ }

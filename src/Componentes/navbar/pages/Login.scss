@@ -1,0 +1,67 @@
+.login{
+   
+    height:calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    background-image: url(../../imagenes/Calçada.jpg);
+    background-size: cover;
+    font-size:25px;
+    font-weight: 600;
+   
+    
+}
+.mail{
+    color: rgb(12, 85, 128);
+    font-size: 23px;
+    margin-left:20px;
+}
+.password{
+    color: rgb(12, 85, 128);
+    font-size: 23px;
+    margin-left:20px; 
+}
+
+.loginTitle{
+    font-size: 50px;
+    color: rgb(23, 83, 194);
+}
+.loginForm{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+loginForm>label{
+    margin: 10px 0;
+
+}
+.loginInput{
+    padding:10px;
+    background-color: rgb(223, 234, 240);
+    border: none;
+}
+.loginButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: rgb(89, 151, 231);
+    border:none;
+    color:#fff;
+    border-radius:10px;
+    padding: 10px;
+}
+.registerButton{
+background-color: rgb(96, 150, 221);
+cursor: pointer;
+border: none;
+padding: 10px;
+color:#fff;
+border-radius: 10px;
+margin-top: 20px;
+}
+.registerButton:hover{
+    background-color: rgb(240, 165, 80);
+}
+
+
